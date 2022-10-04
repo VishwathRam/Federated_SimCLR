@@ -1,4 +1,4 @@
-# federated_simCLR
+# Federated_simCLR
  SimCLR is a simple framework for contrastive learning of visual representations.
  I federate a SimCLR model and train the server with 4 clients.
  The initial model has an accuracy of 80%.
